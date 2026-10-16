@@ -67,7 +67,7 @@ AquaSense aims to demonstrate how computer engineering, embedded systems, and Io
 
 </div>
 
-> **Important:** Upload your actual prototype photo to the repository using the filename `aquasense-prototype.jpg`. The image will appear here once the file has been uploaded successfully.
+
 
 ## ✨ Key Features
 
